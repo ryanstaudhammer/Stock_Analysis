@@ -10,3 +10,8 @@ Stocks with gains are indicated in green, and red indicates losses.
 In 2017, DQ was up an astonishing 199.4%. Though after I analyzed 2018, the upward trend in 2017 had come to a halt and all but two of the original 12 stocks had losses.
 
 ![](https://github.com/ryanstaudhammer/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
+
+## Summary
+In order to make my code work I had to refactor the code. After several attempts and help from the Ask BCS Learning Assistant I was able to get the code to work. Unfortunately I don't have times for the original code, since it never worked, but gosh darn, look at the times of that refactored code! Talk about fast. 
