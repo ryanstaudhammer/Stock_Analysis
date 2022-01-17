@@ -4,5 +4,5 @@
 ## Results
 ### 
 The two years of data analyzed were 2017 and 2018. Based on the analysis of 2017 all but one of the 12 stocks analyzed had gains in 2017. 
-![]()
+![](https://github.com/ryanstaudhammer/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 In 2017, DQ was up an astonishing 199.4%. Though after I analyzed 2018, the upward trend in 2017 had come to a halt and all but two of the original 12 stocks had losses. 
